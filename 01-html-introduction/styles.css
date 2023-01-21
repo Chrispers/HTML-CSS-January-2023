@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+
+.odd > a.login > #login{
+    font-size: 10px;
+    color: blue;
+}
+
+#login{
+    width: 150px;
+}
+
+a.login, a.logout, #login{
+    width: 80px;
+
+}
